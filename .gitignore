@@ -1,0 +1,7 @@
+**/.idea
+*.vscode
+bin/
+include/
+lib/
+coding_demo/CMakeLists.txt
+
